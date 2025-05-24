@@ -1,0 +1,14 @@
+**********************VIGÈNERE CODE AND DECODE**********************
+
+WORD: Querubim
+ENCODE : AYCBYZSQ
+
+WORD: AYCBYZSQ
+DECODE : QUERUBIM
+
+WORD: fart
+ENCODE : PEPD
+
+WORD: PEPD
+DECODE : FART
+
